@@ -1,0 +1,80 @@
+html, body{
+    background-color: slategray;
+    height: 100%;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.titulo{
+    text-align: center;
+    position: relative;
+    display: block;
+
+}
+
+.mapa{
+    height: 600px;
+    width: 600px;
+    text-align: center;
+    padding: 50px, 50px, 50px, 50px;
+    display: inline-block;
+    position: relative;
+}
+
+#o_mapa{
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 50px, 50px, 50px, 50px;
+    
+}
+
+.formulario{
+    display: block;
+    position:relative;
+    left:37%;
+    top:15%;
+    width:320px;
+    height:270px;
+}
+
+#textarea {
+    width: 100%;
+    height: 100%;
+    padding: 50px, 50px, 50px, 50px;
+}
+
+.menu{
+    text-align: center;
+    padding-bottom: 10%;
+    padding-top: 10%;
+    display:block;
+}
+
+
+
+.texto{
+    display:block;
+    text-align: center;
+    top:13%;
+    font-family: cursive;
+    font: larger;
+    position: relative;
+}
+
+.footer{
+    font-size: small;
+    color: powderblue; 
+    padding-bottom: 0%;
+    
+    text-align: center;
+    width:100%;
+    height: 10%;
+    position: relative; 
+    display: block;
+}
+
+
